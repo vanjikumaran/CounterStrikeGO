@@ -9,6 +9,10 @@ I felt this is unfair for everyone and started to look into other options on how
 
 This instruction repository mainly instruct how to set up the CSGO Host server in major IaSS providers.
 
+
+## Comman Tools and Accounts
+I will be mainly utilizing the *open ssh* to connect to the Virtual Machines that I will be obtain to run these CSGO Servers. Further I do have a professional account (Only $5, when I registered :D) for Steam to obtain the Lience for running the CSGO game 
+
 ## Instruction for IaSS
 
 ### AWS
